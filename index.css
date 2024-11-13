@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    gap: 20px;
+}
+.container{
+    display: flex;
+    gap: 30px;
+}
+.text{
+    width: 100px;
+    height: 100px;
+    background-color: bisque;
+    display: none;
+    position: absolute;
+    top: 50px;
+}
+.text:hover.news{
+    display: flex;
+}
