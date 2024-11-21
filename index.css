@@ -281,7 +281,6 @@ body {
     display: flex;
     justify-content: space-between;
 }
-
 .gg-logo {
     position: absolute;
     top: 0;
@@ -305,3 +304,77 @@ body {
 .section-three-image1{
     position: relative;
 }
+.section-four-unuudur{
+    display: flex;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    padding-top: 10px;
+    width: 105px;
+    height: 26px;
+    color: #407ce8;
+}
+.section-four{
+    width: 1180px;
+    height: 3584px;
+}
+.section-content-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.calendar-one-day{
+    height: 7px;
+    background-color: #00b0f4;
+    border-radius: 20px;
+}
+.section-four-day-container{
+    width: 730px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.calendar-day-container{
+    height: 81px;
+    width: 730px;
+}
+.section-four-calendar{
+    width: 730px;
+}
+.section-five-news-image{
+    width: 210px;
+    height: 150px;
+}
+.section-five-container{
+    width: 720px;
+    height: 150px;
+    display: flex;
+    padding-top: 50px;
+}
+.section-five-text-container{
+    width: 480px;
+    height: 150px;
+    padding-left: 16px;
+}
+.section-five-text{
+    width: 450px;
+    height: 52px;
+    top: 0;
+    bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.section-five-text2{
+    width: 450px;
+    height: 46px;
+    color: #888;
+}
+.unicef-image{
+    padding-top: 25px;
+}
+
+
