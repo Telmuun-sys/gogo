@@ -317,7 +317,7 @@ body {
 }
 .section-four{
     width: 1180px;
-    height: 3584px;
+    height: 4500px;
 }
 .section-content-body{
     display: flex;
@@ -376,5 +376,137 @@ body {
 .unicef-image{
     padding-top: 25px;
 }
+.section-six{
+    width: 730px;
+    height: 372px;
+    padding-top: 30px;
+}
+.section-six-body{
+    width: 690px;
+    height: 332px;
+    padding: 20px;
+    background-color: #007aff;
+    padding-top: 20px;
+}.section-six-text{
+    font-size: 16px !important;
+    line-height: 24px !important;
+    color: #fff;
+    font-weight: 700;
+    width: 650px;
+    height: 48px;
+}
+.section-six-cover-text{
+    font-size: 16px !important;
+    line-height: 24px !important;
+    margin-top: 0;
 
+}
+.section-six-text-container{
+    width: 650px;
+    height: 67px;
+    padding-top: 10px;
+    display: flex;
+}
+.section-six-border{
+    border-radius: 50%;
+    display: inline;
+    height: 16px;
+    width: 16px;
+    overflow: hidden;
+    margin-top: -4px;
+    vertical-align: middle;
+    -webkit-appearance: none;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin: 0;
+    font: inherit;
+    background-color: #007aff;
+    margin-left: 10px;
+    
+}
+.section-six-text-container-image{
+    width: 575px;
+    height: 75px;
+    background-color: #39f;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.section-six-text2{
+    color: #fff;
+    padding: 15px;
+}.section-six-border-text{
+    padding: 15px;
+    margin: 0;
+}
+.section-six-number{
+    width: 90px;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+.section-six-number-container{
+    width: 90px;
+    height: 75px;
+}
+.human-logo-image{
+    margin-left: 15px;
+}
+.section-six-container{
+    width: 650px;
+    height: 245px;
+}
+.section-six-text-container-image2{
+    width: 575px;
+    background-color: #39f;
+    display: flex;
+    align-items: center;
+}
+.section-six-number2{
+    width: 90px;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+.section-six-text-container2{
+    width: 650px;
+    height: 67px;
+    padding-top: 2px;
+    display: flex;
+}
+.section-six-text-container1{
+    width: 650px;
+    height: 54px;
+    padding-top: 10px;
+    display: flex;
+}
+.section-six-end-text{
+    color: #fff;
+}
+.tsaash-uzeh-image{
+    height: 65px;
+    width: 650px;
+
+}
+.tsaash-uzeh-border{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    border: 1px solid #f2f2f2;
+
+}
+.tsaash-uzeh{
+    width: 690px;
+    height: 65px;
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
 
